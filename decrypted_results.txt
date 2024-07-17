@@ -1,0 +1,442 @@
+Attempt 1 (Shift: 0): Uifsf jt b tfdsfu qpjou up nblf.
+Mapping:
+U ==> U
+i ==> i
+f ==> f
+s ==> s
+j ==> j
+t ==> t
+b ==> b
+d ==> d
+u ==> u
+q ==> q
+p ==> p
+o ==> o
+n ==> n
+l ==> l
+
+Attempt 2 (Shift: 1): There is a secret point to make.
+Mapping:
+U ==> T
+i ==> h
+f ==> e
+s ==> r
+j ==> i
+t ==> s
+b ==> a
+d ==> c
+u ==> t
+q ==> p
+p ==> o
+o ==> n
+n ==> m
+l ==> k
+
+Attempt 3 (Shift: 2): Sgdqd hr z rdbqds onhms sn lzjd.
+Mapping:
+U ==> S
+i ==> g
+f ==> d
+s ==> q
+j ==> h
+t ==> r
+b ==> z
+d ==> b
+u ==> s
+q ==> o
+p ==> n
+o ==> m
+n ==> l
+l ==> j
+
+Attempt 4 (Shift: 3): Rfcpc gq y qcapcr nmglr rm kyic.
+Mapping:
+U ==> R
+i ==> f
+f ==> c
+s ==> p
+j ==> g
+t ==> q
+b ==> y
+d ==> a
+u ==> r
+q ==> n
+p ==> m
+o ==> l
+n ==> k
+l ==> i
+
+Attempt 5 (Shift: 4): Qebob fp x pbzobq mlfkq ql jxhb.
+Mapping:
+U ==> Q
+i ==> e
+f ==> b
+s ==> o
+j ==> f
+t ==> p
+b ==> x
+d ==> z
+u ==> q
+q ==> m
+p ==> l
+o ==> k
+n ==> j
+l ==> h
+
+Attempt 6 (Shift: 5): Pdana eo w oaynap lkejp pk iwga.
+Mapping:
+U ==> P
+i ==> d
+f ==> a
+s ==> n
+j ==> e
+t ==> o
+b ==> w
+d ==> y
+u ==> p
+q ==> l
+p ==> k
+o ==> j
+n ==> i
+l ==> g
+
+Attempt 7 (Shift: 6): Oczmz dn v nzxmzo kjdio oj hvfz.
+Mapping:
+U ==> O
+i ==> c
+f ==> z
+s ==> m
+j ==> d
+t ==> n
+b ==> v
+d ==> x
+u ==> o
+q ==> k
+p ==> j
+o ==> i
+n ==> h
+l ==> f
+
+Attempt 8 (Shift: 7): Nbyly cm u mywlyn jichn ni guey.
+Mapping:
+U ==> N
+i ==> b
+f ==> y
+s ==> l
+j ==> c
+t ==> m
+b ==> u
+d ==> w
+u ==> n
+q ==> j
+p ==> i
+o ==> h
+n ==> g
+l ==> e
+
+Attempt 9 (Shift: 8): Maxkx bl t lxvkxm ihbgm mh ftdx.
+Mapping:
+U ==> M
+i ==> a
+f ==> x
+s ==> k
+j ==> b
+t ==> l
+b ==> t
+d ==> v
+u ==> m
+q ==> i
+p ==> h
+o ==> g
+n ==> f
+l ==> d
+
+Attempt 10 (Shift: 9): Lzwjw ak s kwujwl hgafl lg escw.
+Mapping:
+U ==> L
+i ==> z
+f ==> w
+s ==> j
+j ==> a
+t ==> k
+b ==> s
+d ==> u
+u ==> l
+q ==> h
+p ==> g
+o ==> f
+n ==> e
+l ==> c
+
+Attempt 11 (Shift: 10): Kyviv zj r jvtivk gfzek kf drbv.
+Mapping:
+U ==> K
+i ==> y
+f ==> v
+s ==> i
+j ==> z
+t ==> j
+b ==> r
+d ==> t
+u ==> k
+q ==> g
+p ==> f
+o ==> e
+n ==> d
+l ==> b
+
+Attempt 12 (Shift: 11): Jxuhu yi q iushuj feydj je cqau.
+Mapping:
+U ==> J
+i ==> x
+f ==> u
+s ==> h
+j ==> y
+t ==> i
+b ==> q
+d ==> s
+u ==> j
+q ==> f
+p ==> e
+o ==> d
+n ==> c
+l ==> a
+
+Attempt 13 (Shift: 12): Iwtgt xh p htrgti edxci id bpzt.
+Mapping:
+U ==> I
+i ==> w
+f ==> t
+s ==> g
+j ==> x
+t ==> h
+b ==> p
+d ==> r
+u ==> i
+q ==> e
+p ==> d
+o ==> c
+n ==> b
+l ==> z
+
+Attempt 14 (Shift: 13): Hvsfs wg o gsqfsh dcwbh hc aoys.
+Mapping:
+U ==> H
+i ==> v
+f ==> s
+s ==> f
+j ==> w
+t ==> g
+b ==> o
+d ==> q
+u ==> h
+q ==> d
+p ==> c
+o ==> b
+n ==> a
+l ==> y
+
+Attempt 15 (Shift: 14): Gurer vf n frperg cbvag gb znxr.
+Mapping:
+U ==> G
+i ==> u
+f ==> r
+s ==> e
+j ==> v
+t ==> f
+b ==> n
+d ==> p
+u ==> g
+q ==> c
+p ==> b
+o ==> a
+n ==> z
+l ==> x
+
+Attempt 16 (Shift: 15): Ftqdq ue m eqodqf bauzf fa ymwq.
+Mapping:
+U ==> F
+i ==> t
+f ==> q
+s ==> d
+j ==> u
+t ==> e
+b ==> m
+d ==> o
+u ==> f
+q ==> b
+p ==> a
+o ==> z
+n ==> y
+l ==> w
+
+Attempt 17 (Shift: 16): Espcp td l dpncpe aztye ez xlvp.
+Mapping:
+U ==> E
+i ==> s
+f ==> p
+s ==> c
+j ==> t
+t ==> d
+b ==> l
+d ==> n
+u ==> e
+q ==> a
+p ==> z
+o ==> y
+n ==> x
+l ==> v
+
+Attempt 18 (Shift: 17): Drobo sc k combod zysxd dy wkuo.
+Mapping:
+U ==> D
+i ==> r
+f ==> o
+s ==> b
+j ==> s
+t ==> c
+b ==> k
+d ==> m
+u ==> d
+q ==> z
+p ==> y
+o ==> x
+n ==> w
+l ==> u
+
+Attempt 19 (Shift: 18): Cqnan rb j bnlanc yxrwc cx vjtn.
+Mapping:
+U ==> C
+i ==> q
+f ==> n
+s ==> a
+j ==> r
+t ==> b
+b ==> j
+d ==> l
+u ==> c
+q ==> y
+p ==> x
+o ==> w
+n ==> v
+l ==> t
+
+Attempt 20 (Shift: 19): Bpmzm qa i amkzmb xwqvb bw uism.
+Mapping:
+U ==> B
+i ==> p
+f ==> m
+s ==> z
+j ==> q
+t ==> a
+b ==> i
+d ==> k
+u ==> b
+q ==> x
+p ==> w
+o ==> v
+n ==> u
+l ==> s
+
+Attempt 21 (Shift: 20): Aolyl pz h zljyla wvpua av thrl.
+Mapping:
+U ==> A
+i ==> o
+f ==> l
+s ==> y
+j ==> p
+t ==> z
+b ==> h
+d ==> j
+u ==> a
+q ==> w
+p ==> v
+o ==> u
+n ==> t
+l ==> r
+
+Attempt 22 (Shift: 21): Znkxk oy g ykixkz vuotz zu sgqk.
+Mapping:
+U ==> Z
+i ==> n
+f ==> k
+s ==> x
+j ==> o
+t ==> y
+b ==> g
+d ==> i
+u ==> z
+q ==> v
+p ==> u
+o ==> t
+n ==> s
+l ==> q
+
+Attempt 23 (Shift: 22): Ymjwj nx f xjhwjy utnsy yt rfpj.
+Mapping:
+U ==> Y
+i ==> m
+f ==> j
+s ==> w
+j ==> n
+t ==> x
+b ==> f
+d ==> h
+u ==> y
+q ==> u
+p ==> t
+o ==> s
+n ==> r
+l ==> p
+
+Attempt 24 (Shift: 23): Xlivi mw e wigvix tsmrx xs qeoi.
+Mapping:
+U ==> X
+i ==> l
+f ==> i
+s ==> v
+j ==> m
+t ==> w
+b ==> e
+d ==> g
+u ==> x
+q ==> t
+p ==> s
+o ==> r
+n ==> q
+l ==> o
+
+Attempt 25 (Shift: 24): Wkhuh lv d vhfuhw srlqw wr pdnh.
+Mapping:
+U ==> W
+i ==> k
+f ==> h
+s ==> u
+j ==> l
+t ==> v
+b ==> d
+d ==> f
+u ==> w
+q ==> s
+p ==> r
+o ==> q
+n ==> p
+l ==> n
+
+Attempt 26 (Shift: 25): Vjgtg ku c ugetgv rqkpv vq ocmg.
+Mapping:
+U ==> V
+i ==> j
+f ==> g
+s ==> t
+j ==> k
+t ==> u
+b ==> c
+d ==> e
+u ==> v
+q ==> r
+p ==> q
+o ==> p
+n ==> o
+l ==> m
+
